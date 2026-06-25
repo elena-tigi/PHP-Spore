@@ -1,5 +1,5 @@
 name: Advertiser API routes
-base_url: https://api-wcm-ru.weborama.com
+base_url: https://auth-api-wcm-ru.weborama.io
 version: 0.1
 formats:
   - json
